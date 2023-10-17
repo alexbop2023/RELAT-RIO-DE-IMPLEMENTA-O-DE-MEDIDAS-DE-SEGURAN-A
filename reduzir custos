@@ -1,0 +1,39 @@
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+
+Data: 17/10/2023
+Empresa: Abstergo Industries 
+Responsável: Alex Maciel de Azevedo
+
+## Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Alex Maciel de Azevedo. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+
+## Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
+
+Etapa 1: 
+- Auto Scaling AWS
+- monitora os aplicativos e ajusta automaticamente a capacidade para manter um desempenho constante e previsível pelo menor custo possível.
+- recomendo ativar o autoscaling para que conforme o nosso uso a aws faça o provisionamento de novas instâncias, assim não necessitará contratar uma instância robusta logo de inicio.
+
+Etapa 2: 
+- Savings Plans
+- é um modelo de preço flexível que pode ajudar você a reduzir sua fatura em até 72% em comparação com os preços sob demanda, comprometendo-se com gastos por hora durante um período de um ou três anos.
+- para instâncias que iremos usar por uma longa data, recomendo a contratação desse serviço pois ele torna o custo da instância até 72% mais barato que o modelo sob demanda.
+
+Etapa 3: 
+- spot do Amazon EC2
+- permitem aproveitar a capacidade não utilizada do EC2 na Nuvem AWS. Em comparação com a definição de preço sob demanda, as instâncias spot oferecem descontos de até 90%. 
+- para ambientes de testes de aplicação recomendo a utilização desse produto pois ele é altamente mais barato que o sob demanda, e como iremos usar para testes, a exclusão dele a qualquer momento não trará prejuizo.
+
+
+
+## Conclusão
+A implementação de ferramentas na empresa Abstergo Industries tem como esperado reduzir os custos operacionais., o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+## Anexos
+
+[
+
+Assinatura do Responsável pelo Projeto:
+
+Alex Maciel de Azevedo
